@@ -26,34 +26,6 @@ Identifies factors statistically driving bank ratings
 
 Analyzes fields like total employees, reviews, and age
 
-✅ Company Age Segmentation:
-
-Categorizes banks into:
-
-Startup (0–5 yrs)
-
-Emerging (6–15 yrs)
-
-Growth Stage (16–30 yrs)
-
-Established (31–50 yrs)
-
-Veteran (51–100 yrs)
-
-Legacy (101–200 yrs)
-
-Centurions (201+ yrs)
-
-✅ Employee Size Category:
-
-<1000 → Small Scale Institutions
-
-1000–10,000 → Mid-Sized Institutions
-
-10,000–50,000 → Large Enterprises
-
-50,000 → Enterprise Giants
-
 ✅ Clean Data Modeling:
 
 Processed text-to-numeric conversion (e.g., reviews, employee ranges)
