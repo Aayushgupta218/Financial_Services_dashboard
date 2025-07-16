@@ -1,3 +1,5 @@
+<img width="1315" height="738" alt="image" src="https://github.com/user-attachments/assets/22c39581-ac32-4a31-8018-d572b1c48c2d" />
+
 📊 Banking Sector Insights Dashboard
 An interactive Power BI dashboard analyzing ratings, employee strength, and operational characteristics of top banks and financial institutions.
 
